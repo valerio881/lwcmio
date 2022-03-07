@@ -1,0 +1,23 @@
+.formStyle{
+    margin-left:3%;
+    margin-right:3%;
+}
+.generalForm{
+    text-align:center;
+    color:white;
+    margin-bottom:2%;
+}
+
+.buttons{
+    margin-top:2%;
+}
+
+.butReset{
+    margin-left:-70%;
+}
+.error{
+    margin-left:3%;
+    margin-right:3%;
+    color:red;
+    margin-top:1%; 
+}

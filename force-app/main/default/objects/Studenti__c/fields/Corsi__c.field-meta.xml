@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Corsi__c</fullName>
+    <externalId>false</externalId>
+    <label>Corsi</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Matematica</fullName>
+                <default>false</default>
+                <label>Matematica</label>
+            </value>
+            <value>
+                <fullName>Italiano</fullName>
+                <default>false</default>
+                <label>Italiano</label>
+            </value>
+            <value>
+                <fullName>Geografia</fullName>
+                <default>false</default>
+                <label>Geografia</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

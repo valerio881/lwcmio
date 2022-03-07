@@ -1,0 +1,11 @@
+<template>
+    <template if:true={riepilogo}>
+        <div class="slds-col slds-size_12-of-12">
+            <h1>Riepilogo</h1>
+        <p>{riepilogo}</p>
+    </div>
+    <div class="slds-col slds-size_12-of-12">
+        <lightning-input type="checkbox" class="formStyle"  name="Privacy__c"  label="Abilita Description" onchange={handleChange}  value={valueCheck}></lightning-input>
+    </div>
+</template>
+</template>

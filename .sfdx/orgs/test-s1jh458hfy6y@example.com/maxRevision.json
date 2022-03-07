@@ -1,0 +1,311 @@
+{
+  "serverMaxRevisionCounter": 1093,
+  "sourceMembers": {
+    "Profile__Admin": {
+      "serverRevisionCounter": 1084,
+      "lastRetrievedFromServer": 1084,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "CustomApplication__AppLwc": {
+      "serverRevisionCounter": 65,
+      "lastRetrievedFromServer": 65,
+      "memberType": "CustomApplication",
+      "isNameObsolete": false
+    },
+    "FlexiPage__AppLwc_UtilityBar": {
+      "serverRevisionCounter": 6,
+      "lastRetrievedFromServer": 6,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "AppMenu__AppSwitcher": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "AppMenu",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__listaRecords": {
+      "serverRevisionCounter": 936,
+      "lastRetrievedFromServer": 936,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__studenti": {
+      "serverRevisionCounter": 28,
+      "lastRetrievedFromServer": 28,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__listaRecords/listaRecords.cmp": {
+      "serverRevisionCounter": 937,
+      "lastRetrievedFromServer": 937,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__listaRecords/listaRecordsController.js": {
+      "serverRevisionCounter": 938,
+      "lastRetrievedFromServer": 938,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__listaRecords/listaRecordsHelper.js": {
+      "serverRevisionCounter": 939,
+      "lastRetrievedFromServer": 939,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__listaRecords/listaRecords.css": {
+      "serverRevisionCounter": 940,
+      "lastRetrievedFromServer": 940,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__listaRecords/listaRecords.auradoc": {
+      "serverRevisionCounter": 941,
+      "lastRetrievedFromServer": 941,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__listaRecords/listaRecordsRenderer.js": {
+      "serverRevisionCounter": 942,
+      "lastRetrievedFromServer": 942,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__listaRecords/listaRecords.design": {
+      "serverRevisionCounter": 943,
+      "lastRetrievedFromServer": 943,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__listaRecords/listaRecords.svg": {
+      "serverRevisionCounter": 944,
+      "lastRetrievedFromServer": 944,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__studenti/studenti.cmp": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__studenti/studentiController.js": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__studenti/studentiHelper.js": {
+      "serverRevisionCounter": 31,
+      "lastRetrievedFromServer": 31,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__studenti/studenti.css": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__studenti/studenti.auradoc": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": 33,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__studenti/studentiRenderer.js": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": 34,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__studenti/studenti.design": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__studenti/studenti.svg": {
+      "serverRevisionCounter": 36,
+      "lastRetrievedFromServer": 36,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__listaRecordLwc": {
+      "serverRevisionCounter": 1090,
+      "lastRetrievedFromServer": 1090,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__studentiLwc": {
+      "serverRevisionCounter": 931,
+      "lastRetrievedFromServer": 931,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__studentiLwc/studentiLwc.js": {
+      "serverRevisionCounter": 935,
+      "lastRetrievedFromServer": 935,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__studentiLwc/studentiLwc.html": {
+      "serverRevisionCounter": 933,
+      "lastRetrievedFromServer": 933,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__studentiLwc/studentiLwc.js-meta.xml": {
+      "serverRevisionCounter": 934,
+      "lastRetrievedFromServer": 934,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__listaRecordLwc/listaRecordLwc.js-meta.xml": {
+      "serverRevisionCounter": 1091,
+      "lastRetrievedFromServer": 1091,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__listaRecordLwc/listaRecordLwc.js": {
+      "serverRevisionCounter": 1092,
+      "lastRetrievedFromServer": 1092,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__listaRecordLwc/listaRecordLwc.html": {
+      "serverRevisionCounter": 1093,
+      "lastRetrievedFromServer": 1093,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Insert_record": {
+      "serverRevisionCounter": 43,
+      "lastRetrievedFromServer": 43,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "CustomTab__Lista_record": {
+      "serverRevisionCounter": 60,
+      "lastRetrievedFromServer": 60,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Lista_record": {
+      "serverRevisionCounter": 58,
+      "lastRetrievedFromServer": 58,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "CustomField__Studenti__c.NomeStudente__c": {
+      "serverRevisionCounter": 69,
+      "lastRetrievedFromServer": 69,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Studenti__c.CognomeStudente__c": {
+      "serverRevisionCounter": 71,
+      "lastRetrievedFromServer": 71,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Studenti__c.Password__c": {
+      "serverRevisionCounter": 73,
+      "lastRetrievedFromServer": 73,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Studenti__c.Corsi__c": {
+      "serverRevisionCounter": 75,
+      "lastRetrievedFromServer": 75,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Studenti__c.Privacy__c": {
+      "serverRevisionCounter": 77,
+      "lastRetrievedFromServer": 77,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Layout__Studenti__c-Studenti Layout": {
+      "serverRevisionCounter": 950,
+      "lastRetrievedFromServer": 950,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "CustomObject__Studenti__c": {
+      "serverRevisionCounter": 68,
+      "lastRetrievedFromServer": 68,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomField__Studenti__c.Esito__c": {
+      "serverRevisionCounter": 80,
+      "lastRetrievedFromServer": 80,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Studenti__c.Aggiornato__c": {
+      "serverRevisionCounter": 83,
+      "lastRetrievedFromServer": 83,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__studentiLwc/studentiLwc.css": {
+      "serverRevisionCounter": 932,
+      "lastRetrievedFromServer": 932,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "ApexClass__Student": {
+      "serverRevisionCounter": 1085,
+      "lastRetrievedFromServer": 1085,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexClass__StudentTriggerHandler": {
+      "serverRevisionCounter": 947,
+      "lastRetrievedFromServer": 947,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexTrigger__StudentTrigger": {
+      "serverRevisionCounter": 948,
+      "lastRetrievedFromServer": 948,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": false
+    },
+    "CustomField__Studenti__c.Description__c": {
+      "serverRevisionCounter": 949,
+      "lastRetrievedFromServer": 949,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__listaRecordChild": {
+      "serverRevisionCounter": 1080,
+      "lastRetrievedFromServer": 1080,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__listaRecordChild/listaRecordChild.js": {
+      "serverRevisionCounter": 1081,
+      "lastRetrievedFromServer": 1081,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__listaRecordChild/listaRecordChild.html": {
+      "serverRevisionCounter": 1082,
+      "lastRetrievedFromServer": 1082,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__listaRecordChild/listaRecordChild.js-meta.xml": {
+      "serverRevisionCounter": 1083,
+      "lastRetrievedFromServer": 1083,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    }
+  }
+}

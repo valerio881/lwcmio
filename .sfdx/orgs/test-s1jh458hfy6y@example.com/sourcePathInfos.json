@@ -1,0 +1,777 @@
+{
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1646214855924,
+    "changeTime": 1646214855924,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1646214855924,
+    "changeTime": 1646214855924,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1646215057269,
+    "changeTime": 1646215057269,
+    "contentHash": "4f7af740f83770e02d324a71d5ae0de735eafe98",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\applications": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1646215057254,
+    "changeTime": 1646215057254,
+    "contentHash": "8e2cfaf6ccbbb03f14db38c30b0701bcd85e2e0c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1646215099160,
+    "changeTime": 1646215099160,
+    "contentHash": "6bf411e394d671ade57f687230059b3815c5dbcf",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1646312740175,
+    "changeTime": 1646312740175,
+    "contentHash": "a5e3175fd1134f401e2b9d083c576340bb73dc2c",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\contentassets": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\contentassets",
+    "isDirectory": true,
+    "modifiedTime": 1646214855925,
+    "changeTime": 1646214855925,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\flexipages": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1646215718399,
+    "changeTime": 1646215718399,
+    "contentHash": "dafc50a0cb879c06415f389624113cb3f6078d27",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\layouts": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1646216075835,
+    "changeTime": 1646216075835,
+    "contentHash": "9d1bb710aaeaaa1898f2675ec3a520ceb877bd10",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1646313816537,
+    "changeTime": 1646313816537,
+    "contentHash": "a48147d995e42136f55abdb433c94e045baadbf7",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1646216075821,
+    "changeTime": 1646216075821,
+    "contentHash": "2f244324fc7855d5f8c3ce1ebbc88ebf7bbf224e",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\permissionsets": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1646214855925,
+    "changeTime": 1646214855925,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\staticresources": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1646214855926,
+    "changeTime": 1646214855926,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\tabs": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1646215718402,
+    "changeTime": 1646215718402,
+    "contentHash": "275ba3b62b58a0c55934054122d2ae51f203ca21",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\triggers": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1646312647717,
+    "changeTime": 1646312647717,
+    "contentHash": "2d1f6f36a43ea97a8a22e7ea8caedbe2df16b5d2",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio",
+    "isDirectory": true,
+    "modifiedTime": 1646214863499,
+    "changeTime": 1646214863499,
+    "contentHash": "d8c2b2847a5fd4b9e26f8b11b26b6b3ef8ee74e7",
+    "state": "u",
+    "isWorkspace": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\profiles": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\profiles",
+    "isDirectory": true,
+    "modifiedTime": 1646215057267,
+    "changeTime": 1646215057267,
+    "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\appMenus": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\appMenus",
+    "isDirectory": true,
+    "modifiedTime": 1646215057270,
+    "changeTime": 1646215057270,
+    "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\flexipages\\AppLwc_UtilityBar.flexipage-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\flexipages\\AppLwc_UtilityBar.flexipage-meta.xml",
+    "size": 615,
+    "modifiedTime": 1646215057250,
+    "changeTime": 1646215057250,
+    "contentHash": "5a6581ec6234101c1fc9d8a43dc8fcc85124a4e3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "FlexiPage"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+    "size": 2001,
+    "modifiedTime": 1646215057270,
+    "changeTime": 1646215057270,
+    "contentHash": "c644154d59a3adbcbd6b52c37161f5528d640c25",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AppMenu"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\applications\\AppLwc.app-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\applications\\AppLwc.app-meta.xml",
+    "size": 967,
+    "modifiedTime": 1646215718407,
+    "changeTime": 1646215718407,
+    "contentHash": "4acce461d74d4db5391bad58998864b82b532bf9",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomApplication"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+    "size": 22680,
+    "modifiedTime": 1646313324284,
+    "changeTime": 1646313324284,
+    "contentHash": "8721f08d3c5aca63d07f64b4f3358332dd09b578",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords",
+    "isDirectory": true,
+    "modifiedTime": 1646215099171,
+    "changeTime": 1646215099171,
+    "contentHash": "73f399cba787e28afd3e5a058cf50f97e70add41",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti",
+    "isDirectory": true,
+    "modifiedTime": 1646215086571,
+    "changeTime": 1646215086571,
+    "contentHash": "5e5e16e7344419b7c4c4421ae842ccf6c6321ebf",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordLwc": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordLwc",
+    "isDirectory": true,
+    "modifiedTime": 1646215140329,
+    "changeTime": 1646215140329,
+    "contentHash": "498f11738443d744891439e7b6d6801f1c33314d",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc",
+    "isDirectory": true,
+    "modifiedTime": 1646218082915,
+    "changeTime": 1646218082915,
+    "contentHash": "df75912fd13dea20409d9edc0966586020950370",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.auradoc": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.auradoc",
+    "size": 209,
+    "modifiedTime": 1646215099161,
+    "changeTime": 1646215099161,
+    "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.cmp": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.cmp",
+    "size": 152,
+    "modifiedTime": 1646312525689,
+    "changeTime": 1646312525689,
+    "contentHash": "30328d6250cdc5b574a10cb997b7108fb07491d3",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.cmp-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1646215099160,
+    "changeTime": 1646215099160,
+    "contentHash": "2c69a1fc0d5aa5f1cf9983c8f133d9c6e4378789",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.css": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.css",
+    "size": 10,
+    "modifiedTime": 1646215099168,
+    "changeTime": 1646215099168,
+    "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.design": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.design",
+    "size": 40,
+    "modifiedTime": 1646215099169,
+    "changeTime": 1646215099169,
+    "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.svg": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecords.svg",
+    "size": 664,
+    "modifiedTime": 1646215099170,
+    "changeTime": 1646215099170,
+    "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecordsController.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecordsController.js",
+    "size": 65,
+    "modifiedTime": 1646215099170,
+    "changeTime": 1646215099170,
+    "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecordsHelper.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecordsHelper.js",
+    "size": 45,
+    "modifiedTime": 1646215099171,
+    "changeTime": 1646215099171,
+    "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecordsRenderer.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\listaRecords\\listaRecordsRenderer.js",
+    "size": 50,
+    "modifiedTime": 1646215099171,
+    "changeTime": 1646215099171,
+    "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.auradoc": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.auradoc",
+    "size": 209,
+    "modifiedTime": 1646215086560,
+    "changeTime": 1646215086560,
+    "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.cmp": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.cmp",
+    "size": 122,
+    "modifiedTime": 1646215262980,
+    "changeTime": 1646215262980,
+    "contentHash": "bf18127f7eb78190699f7573dcf52739792ab466",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.cmp-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1646215086559,
+    "changeTime": 1646215086559,
+    "contentHash": "2c69a1fc0d5aa5f1cf9983c8f133d9c6e4378789",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.css": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.css",
+    "size": 10,
+    "modifiedTime": 1646215086568,
+    "changeTime": 1646215086568,
+    "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.design": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.design",
+    "size": 40,
+    "modifiedTime": 1646215086568,
+    "changeTime": 1646215086568,
+    "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.svg": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studenti.svg",
+    "size": 664,
+    "modifiedTime": 1646215086569,
+    "changeTime": 1646215086569,
+    "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studentiController.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studentiController.js",
+    "size": 65,
+    "modifiedTime": 1646215086570,
+    "changeTime": 1646215086570,
+    "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studentiHelper.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studentiHelper.js",
+    "size": 45,
+    "modifiedTime": 1646215086571,
+    "changeTime": 1646215086571,
+    "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studentiRenderer.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\aura\\studenti\\studentiRenderer.js",
+    "size": 50,
+    "modifiedTime": 1646215086572,
+    "changeTime": 1646215086572,
+    "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordLwc\\listaRecordLwc.html": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordLwc\\listaRecordLwc.html",
+    "size": 1359,
+    "modifiedTime": 1646322772958,
+    "changeTime": 1646322772958,
+    "contentHash": "fb8ae05db14678c2fb22240c44c68827be07d635",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordLwc\\listaRecordLwc.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordLwc\\listaRecordLwc.js",
+    "size": 2022,
+    "modifiedTime": 1646322816239,
+    "changeTime": 1646322816239,
+    "contentHash": "83f0768186bda285adc732b93271944915e22b9d",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordLwc\\listaRecordLwc.js-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordLwc\\listaRecordLwc.js-meta.xml",
+    "size": 208,
+    "modifiedTime": 1646215140329,
+    "changeTime": 1646215140329,
+    "contentHash": "7313c935fb9d39f719432466ac41eaa08bc879c3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc\\studentiLwc.html": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc\\studentiLwc.html",
+    "size": 3231,
+    "modifiedTime": 1646309233135,
+    "changeTime": 1646309233135,
+    "contentHash": "3297054810590d2ed9546433cb0f9f5c16461fe9",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc\\studentiLwc.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc\\studentiLwc.js",
+    "size": 3694,
+    "modifiedTime": 1646312484056,
+    "changeTime": 1646312484056,
+    "contentHash": "240e557da2e6020a8d3951a03bd3e5b1cbb74c78",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc\\studentiLwc.js-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc\\studentiLwc.js-meta.xml",
+    "size": 208,
+    "modifiedTime": 1646215123498,
+    "changeTime": 1646215123498,
+    "contentHash": "7313c935fb9d39f719432466ac41eaa08bc879c3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\flexipages\\Insert_record.flexipage-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\flexipages\\Insert_record.flexipage-meta.xml",
+    "size": 845,
+    "modifiedTime": 1646215498821,
+    "changeTime": 1646215498821,
+    "contentHash": "b1a547fc1d63918959293bacdd9c575907f01af7",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "FlexiPage"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\tabs\\Lista_record.tab-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\tabs\\Lista_record.tab-meta.xml",
+    "size": 284,
+    "modifiedTime": 1646215718403,
+    "changeTime": 1646215718403,
+    "contentHash": "f2c24763d77463abb07e506cbec9e1b6398d1d8b",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomTab"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\flexipages\\Lista_record.flexipage-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\flexipages\\Lista_record.flexipage-meta.xml",
+    "size": 541,
+    "modifiedTime": 1646215718399,
+    "changeTime": 1646215718399,
+    "contentHash": "58f068c6a8a358cf84f6fec75aa307dbfa72fca3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "FlexiPage"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c",
+    "isDirectory": true,
+    "modifiedTime": 1646216075824,
+    "changeTime": 1646216075824,
+    "contentHash": "b58039b76ad075334d002f98c9286dcae14210bd",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields",
+    "isDirectory": true,
+    "modifiedTime": 1646313324252,
+    "changeTime": 1646313324252,
+    "contentHash": "be19113fdd9c117b7eee8a009dd3515b53d144e3",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\NomeStudente__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\NomeStudente__c.field-meta.xml",
+    "size": 370,
+    "modifiedTime": 1646216075827,
+    "changeTime": 1646216075827,
+    "contentHash": "a1223092ab353f9b06478d168415ba2006795b52",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\Studenti__c.object-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\Studenti__c.object-meta.xml",
+    "size": 5250,
+    "modifiedTime": 1646216075823,
+    "changeTime": 1646216075823,
+    "contentHash": "9fa05614fc2df6e9ff11e57a6fabbe8eb82fb652",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Corsi__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Corsi__c.field-meta.xml",
+    "size": 980,
+    "modifiedTime": 1646216075826,
+    "changeTime": 1646216075826,
+    "contentHash": "4179e1f310bb7aeb6fc7427a1460ba99b1826029",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Privacy__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Privacy__c.field-meta.xml",
+    "size": 320,
+    "modifiedTime": 1646216075829,
+    "changeTime": 1646216075829,
+    "contentHash": "78c32c42eab19937b338934e164ae547d913176f",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\CognomeStudente__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\CognomeStudente__c.field-meta.xml",
+    "size": 376,
+    "modifiedTime": 1646216075825,
+    "changeTime": 1646216075825,
+    "contentHash": "b4520b840684d55e8edc509bdc4b46c8a3160546",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Password__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Password__c.field-meta.xml",
+    "size": 361,
+    "modifiedTime": 1646216075828,
+    "changeTime": 1646216075828,
+    "contentHash": "9a1fa8d7ec0f7d68c5fe295aefac32bcb46069e4",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\layouts\\Studenti__c-Studenti Layout.layout-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\layouts\\Studenti__c-Studenti Layout.layout-meta.xml",
+    "size": 3076,
+    "modifiedTime": 1646313324259,
+    "changeTime": 1646313324259,
+    "contentHash": "a1e1b6bdf0b2e95ac3123cc97ce5e5924e9f11df",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Aggiornato__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Aggiornato__c.field-meta.xml",
+    "size": 326,
+    "modifiedTime": 1646216178749,
+    "changeTime": 1646216178749,
+    "contentHash": "f80acda4989ed6745dac96bc916447ee90cc94a6",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Esito__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Esito__c.field-meta.xml",
+    "size": 316,
+    "modifiedTime": 1646216178750,
+    "changeTime": 1646216178750,
+    "contentHash": "876027d91104a8534cbd07f79f972fb4f6a02194",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc\\studentiLwc.css": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\studentiLwc\\studentiLwc.css",
+    "size": 308,
+    "modifiedTime": 1646307724393,
+    "changeTime": 1646307724393,
+    "contentHash": "baf599d4a5301e7e6550daba68626b9098c27953",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes\\Student.cls": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes\\Student.cls",
+    "size": 654,
+    "modifiedTime": 1646322346569,
+    "changeTime": 1646322346569,
+    "contentHash": "1798d2bb91c3c33783c8c35d28ac0f8979768070",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes\\Student.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes\\Student.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1646237572859,
+    "changeTime": 1646237572859,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes\\StudentTriggerHandler.cls": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes\\StudentTriggerHandler.cls",
+    "size": 363,
+    "modifiedTime": 1646312953772,
+    "changeTime": 1646312953772,
+    "contentHash": "1f05a4b1272c26802990f6c81906905d083c5ff3",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes\\StudentTriggerHandler.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\classes\\StudentTriggerHandler.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1646312740175,
+    "changeTime": 1646312740175,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\triggers\\StudentTrigger.trigger": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\triggers\\StudentTrigger.trigger",
+    "size": 310,
+    "modifiedTime": 1646313099453,
+    "changeTime": 1646313099453,
+    "contentHash": "4245f1c5fa5e4d67625ba80a19044a6508fb3eff",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\triggers\\StudentTrigger.trigger-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\triggers\\StudentTrigger.trigger-meta.xml",
+    "size": 173,
+    "modifiedTime": 1646312647718,
+    "changeTime": 1646312647718,
+    "contentHash": "f6cfbb3a96741f20c1481cbdb6a8af7c5e506114",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Description__c.field-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\objects\\Studenti__c\\fields\\Description__c.field-meta.xml",
+    "size": 368,
+    "modifiedTime": 1646313324252,
+    "changeTime": 1646313324252,
+    "contentHash": "85578052048b4329315d358104d70f981b0121e6",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordChild": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordChild",
+    "isDirectory": true,
+    "modifiedTime": 1646313816540,
+    "changeTime": 1646313816540,
+    "contentHash": "b351e6c9f0b31b1e6eb51b5ff722f7195511b6db",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordChild\\listaRecordChild.html": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordChild\\listaRecordChild.html",
+    "size": 415,
+    "modifiedTime": 1646321262985,
+    "changeTime": 1646321262985,
+    "contentHash": "2cda4fefcdf6ef7e433a95f292867c2abd3375d5",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordChild\\listaRecordChild.js": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordChild\\listaRecordChild.js",
+    "size": 429,
+    "modifiedTime": 1646321980427,
+    "changeTime": 1646321980427,
+    "contentHash": "7edfd53fd51dbdb3a17b80cf3e5ba5e5bc0f37c1",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordChild\\listaRecordChild.js-meta.xml": {
+    "sourcePath": "c:\\Users\\smurf\\Desktop\\lwcleo\\lwcmio\\force-app\\main\\default\\lwc\\listaRecordChild\\listaRecordChild.js-meta.xml",
+    "size": 208,
+    "modifiedTime": 1646313816540,
+    "changeTime": 1646313816540,
+    "contentHash": "7313c935fb9d39f719432466ac41eaa08bc879c3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  }
+}

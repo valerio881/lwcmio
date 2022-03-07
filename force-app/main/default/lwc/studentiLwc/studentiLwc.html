@@ -1,0 +1,72 @@
+<template>
+<template if:true={insertPage}>
+<div class="slds-grid slds-wrap slds-grid_align-center">
+<div class="slds-col slds-size_12-of-12 generalForm">
+<h1>FORM STUDENTE</h1>
+</div>
+<div class="slds-col slds-size_6-of-12">
+<template if:true={errorGeneral}>
+    <div class="slds-col slds-size_12-of-12">
+        <p class="error">{errorGeneralMessage}</p>
+    </div>
+</template>
+<lightning-card title="Inserisci dati">
+
+        <div class="slds-col slds-size_12-of-12">
+        <lightning-input type="text" name="NomeStudente__c" placeholder="Inserisci il nome" label="Nome" class="formStyle" onchange={handleChange}  required="true"  value={studenti.NomeStudente__c}></lightning-input>
+    </div>
+    <div class="slds-col slds-size_12-of-12">
+        <lightning-input type="text" class="formStyle" name="CognomeStudente__c" placeholder="Inserisci il cognome" label="Cognome" onchange={handleChange}  required="true" value={studenti.CognomeStudente__c}></lightning-input>
+    </div>
+    <div class="slds-col slds-size_12-of-12">
+        <lightning-input class="formStyle" type="password" name="Password__c" placeholder="Inserisci la password" label="Password" onchange={handleChange}  required="true"  value={studenti.Password__c}></lightning-input>
+    </div>
+    <template if:true={errorPassword}>
+    <div class="slds-col slds-size_12-of-12">
+        <p class="error">{errorPasswordMessage}</p>
+    </div>
+</template>
+    <div class="slds-col slds-size_12-of-12">
+            <lightning-combobox
+            class="formStyle"
+        name="Corsi__c"
+        label="Corsi"
+        value={studenti.Corsi__c}
+        placeholder="Scegli corso"
+        options={options}
+        onchange={handleChange}
+        required ></lightning-combobox>
+    </div>
+    <div class="slds-col slds-size_12-of-12">
+        <lightning-input type="checkbox" class="formStyle" checked={studenti.Privacy__c} name="Privacy__c"  label="Privacy" onchange={handleChange}  required="true" value={studenti.Privacy__c}></lightning-input>
+    </div>
+    <div class="slds-grid slds-wrap buttons">
+<div class="slds-col slds-size_6-of-12">
+<lightning-button variant="brand" label="Invia" disabled={disabledInvia} title="Invia" onclick={handleClick} class="slds-m-left_x-small"></lightning-button>
+</div>
+<div class="slds-col slds-size_6-of-12">
+<lightning-button variant="brand" label="Reset" title="Reset" onclick={handleReset} class="butReset"></lightning-button>
+</div>
+</div>
+</lightning-card>
+</div>
+</div>
+</template>
+<template if:true={thankPage}>
+<div class="slds-grid slds-wrap">
+    <lightning-card>
+<div class="slds-col slds-size_12-of-12">
+    <p class="formStyle">Grazie! Il record {studenti.NomeStudente__c} {studenti.CognomeStudente__c} è stato inserito</p>
+</div>
+<div class="slds-grid slds-wrap buttons">
+    <div class="slds-col slds-size_6-of-12">
+    <lightning-button variant="brand" label="Torna indietro" title="BackToInsert" onclick={handleBack} class="slds-m-left_x-small"></lightning-button>
+    </div>
+    <div class="slds-col slds-size_6-of-12">
+    <lightning-button variant="brand" label="Vai alla lista" title="GoToList" onclick={goToList}></lightning-button>
+    </div>
+    </div>
+</lightning-card>
+</div>
+</template>
+</template>

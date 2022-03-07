@@ -1,0 +1,34 @@
+<template>
+    <div class="slds-grid slds-wrap slds-grid_align-center">
+    <div class="slds-col slds-size_6-of-12">
+    <template if:true={errorGeneral}>
+        <div class="slds-col slds-size_12-of-12">
+            <p class="error">{errorGeneralMessage}</p>
+        </div>
+    </template>
+    <lightning-card title="Lista Studenti">
+            <div class="slds-col slds-size_12-of-12">
+                <lightning-datatable
+                key-field="id"
+                data={data}
+                columns={columns}
+                onrowaction={handleRowAction}
+                hide-checkbox-column="true">
+        </lightning-datatable>
+        <br><br>
+        <div class="slds-col slds-size_6-of-12">
+            <lightning-button variant="brand" label="InsertDescription" disabled={disabledInsDescription} title="InsertDescription" onclick={insertDesc} class="slds-m-left_x-small"></lightning-button>
+            </div>
+            <br><br>
+            <template if:true={descriptionOk}>
+            <div class="slds-col slds-size_6-of-12">
+                <p>Decrizione Inserita</p>
+                </div>
+            </template>
+                <br><br>
+        <c-lista-record-child riepilogo={datiRiepilogo} onpassdescription={handlePassDescription}></c-lista-record-child>
+        </div>
+    </lightning-card>
+    </div>
+    </div>
+    </template>
