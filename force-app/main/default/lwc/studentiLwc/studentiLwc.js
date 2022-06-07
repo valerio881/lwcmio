@@ -3,7 +3,7 @@ import insert from '@salesforce/apex/Student.insertStudent';
 import { NavigationMixin } from 'lightning/navigation';
 
 export default class StudentiLwc extends NavigationMixin(LightningElement) {
-@track insertPage=true;
+insertPage=true;
 @track thankPage=false;
 @track errorGeneral=false;
 @track errorGeneralMessage;
@@ -24,6 +24,15 @@ return [
 { label: 'Italiano', value: 'Italiano' },
 { label: 'Geografia', value: 'Geografia' },
 ];
+}
+connectedCallback(){
+let insert= this.insertPage;
+insert='Ciao';
+const GGG='Ciao';
+this.insertPage=false;
+}
+disconnectedCallback(){
+
 }
 handleChange(event){
 let checkFields=false;
